@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.com/svgjs" width="512" height="512" x="0" y="0" viewBox="0 0 512 512"
+    style="enable-background:new 0 0 512 512" xml:space="preserve" class="">
+    <g>
+        <path
+            d="M474.5 504.5h-437c-16.569 0-30-13.431-30-30v-437c0-16.569 13.431-30 30-30h437c16.569 0 30 13.431 30 30v437c0 16.569-13.431 30-30 30z"
+            style="" fill="#6e61b6" data-original="#6e61b6" class=""></path>
+        <path
+            d="M474.5 7.5h-30c16.569 0 30 13.431 30 30v437c0 16.568-13.431 30-30 30h30c16.569 0 30-13.432 30-30v-437c0-16.569-13.431-30-30-30z"
+            style="" fill="#6354b1" data-original="#6354b1" class=""></path>
+        <path d="M37.5 470.5v-429a4 4 0 0 1 4-4h429a4 4 0 0 1 4 4v429a4 4 0 0 1-4 4h-429a4 4 0 0 1-4-4z" style=""
+            fill="#f9f7f8" data-original="#f9f7f8" class=""></path>
+        <path d="M470.5 37.5h-30a4 4 0 0 1 4 4v429a4 4 0 0 1-4 4h30a4 4 0 0 0 4-4v-429a4 4 0 0 0-4-4z" style=""
+            fill="#efedef" data-original="#efedef" class=""></path>
+        <path
+            d="M203.919 334.474v-40.049a7 7 0 0 1 7-7h93.817a7 7 0 0 1 7 7v68.022c0 1.703.621 3.347 1.746 4.626l35.873 40.747c4.264 4.844 12.254 1.828 12.254-4.625V156.837a7 7 0 0 1 7-7h49.045a7 7 0 0 0 7-7v-34.045a7 7 0 0 0-7-7H94.346a7 7 0 0 0-7 7v34.045a7 7 0 0 0 7 7h53.614a7 7 0 0 1 7 7v75.543a7 7 0 0 1-7 7h-29.91c-5.521 0-8.856 6.08-5.912 10.751a360.916 360.916 0 0 0 34.566 46.194 361.042 361.042 0 0 0 45.839 43.617c4.593 3.658 11.376.404 11.376-5.468zm100.817-95.094h-93.817a7 7 0 0 1-7-7v-75.543a7 7 0 0 1 7-7h93.817a7 7 0 0 1 7 7v75.543a7 7 0 0 1-7 7z"
+            style="" fill="#6e61b6" data-original="#6e61b6" class=""></path>
+        <path
+            d="M210.919 149.837h-30a7 7 0 0 0-7 7v75.542a7 7 0 0 0 7 7h30a7 7 0 0 1-7-7v-75.542a7 7 0 0 1 7-7zM173.919 294.425v29.607a361.696 361.696 0 0 0 18.625 15.909c4.592 3.66 11.375.406 11.375-5.466v-40.049a7 7 0 0 1 7-7h-30a6.998 6.998 0 0 0-7 6.999zM331.608 156.836v230.826l17.746 20.157c4.264 4.843 12.254 1.828 12.254-4.625V156.836a7 7 0 0 1 7-7h-30a7 7 0 0 0-7 7zM417.654 101.792h-30a7 7 0 0 1 7 7v34.045a7 7 0 0 1-7 7h30a7 7 0 0 0 7-7v-34.045a7 7 0 0 0-7-7z"
+            style="" fill="#6354b1" data-original="#6354b1" class=""></path>
+        <path
+            d="M474.5 504.5h-437c-16.569 0-30-13.431-30-30v-437c0-16.569 13.431-30 30-30h437c16.569 0 30 13.431 30 30v437c0 16.569-13.431 30-30 30z"
+            style="stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" fill="none"
+            stroke="#000000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+            data-original="#000000" class=""></path>
+        <path d="M132.024 37.5H470.5a4 4 0 0 1 4 4v429a4 4 0 0 1-4 4h-429a4 4 0 0 1-4-4v-429a4 4 0 0 1 4-4h55.524"
+            style="stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" fill="none"
+            stroke="#000000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+            data-original="#000000" class=""></path>
+        <path
+            d="M361.608 277.583V156.837a7 7 0 0 1 7-7h49.045a7 7 0 0 0 7-7v-34.045a7 7 0 0 0-7-7H94.346a7 7 0 0 0-7 7v34.045a7 7 0 0 0 7 7h53.614a7 7 0 0 1 7 7v75.543a7 7 0 0 1-7 7h-29.91c-5.521 0-8.856 6.08-5.912 10.751a360.916 360.916 0 0 0 34.566 46.194 361.042 361.042 0 0 0 45.839 43.617c4.592 3.66 11.375.406 11.375-5.466v-40.049a7 7 0 0 1 7-7h93.817a7 7 0 0 1 7 7v68.022c0 1.703.621 3.347 1.746 4.626l35.873 40.747c4.264 4.844 12.254 1.828 12.254-4.625v-90.611m-56.872-73.206h-93.817a7 7 0 0 1-7-7v-75.543a7 7 0 0 1 7-7h93.817a7 7 0 0 1 7 7v75.543a7 7 0 0 1-7 7z"
+            style="stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" fill="none"
+            stroke="#000000" stroke-width="15" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10"
+            data-original="#000000" class=""></path>
+    </g>
+</svg>
